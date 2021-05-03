@@ -4,7 +4,7 @@
 
 # Projeto Digital Innovation One Java
 
-# Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja
+# Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka e deploy no EKS
 
 - Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/wesleyfuchter/cqrs-quarkus-kafka
 - Professor: Wesley Fuchter
